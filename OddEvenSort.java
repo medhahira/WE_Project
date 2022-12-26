@@ -1,5 +1,3 @@
-package Sorting;
-
 import java.util.ArrayList;
 
 public class OddEvenSort {
